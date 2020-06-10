@@ -1,0 +1,15 @@
+
+en:
+  welcome: "Welcome to the calculator program Enter your name"
+  empty: "Make sure to put a valid name!"
+  first_num: "What's the first number?"
+  second_num: "What's the second number?"
+  not_valid: "Hmm...that is not a valid number"
+  again: "Want to do it again? Yes or No"
+es:
+  welcome: "Bienvenido a la calculadora! Entre su nombre:"
+  empty: "Asegurar de poner un nombre valido!"
+  first_num: "Cual es el primer numero?"
+  second_num: "Cual es el segundo numero?"
+  not_valid: "...no es un numero valido"
+  again: "Otra vez? Si o No"
